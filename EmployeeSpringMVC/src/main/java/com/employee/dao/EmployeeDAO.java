@@ -1,13 +1,14 @@
-package com.wipro.dao;
+package com.employee.dao;
 
 import java.util.ArrayList;
+
 import java.util.HashMap;
 import java.util.List;
 
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
-import com.wipro.model.Employee;
+import com.employee.model.Employee;
 
 
 @Repository

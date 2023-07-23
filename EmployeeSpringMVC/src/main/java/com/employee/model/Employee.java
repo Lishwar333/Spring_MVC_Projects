@@ -1,4 +1,4 @@
-package com.wipro.model;
+package com.employee.model;
 
 import org.springframework.stereotype.Component;
 

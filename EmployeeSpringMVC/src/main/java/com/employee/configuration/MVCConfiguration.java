@@ -1,4 +1,4 @@
-package com.wipro.configuration;
+package com.employee.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages="com.wipro")
+@ComponentScan(basePackages="com.employee")
 class MVCConfiguration {
 
     @Bean(name="HelloWorld")

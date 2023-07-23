@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Employee Welcome Page</title>
 </head>
 <body>
 <h1>Welcome to Spring MVC Application</h1>

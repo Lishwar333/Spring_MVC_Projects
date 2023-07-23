@@ -1,6 +1,7 @@
-package com.wipro.controller;
+package com.employee.controller;
 
 import java.util.Date;
+
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,8 +11,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.wipro.dao.EmployeeDAO;
-import com.wipro.model.Employee;
+import com.employee.dao.EmployeeDAO;
+import com.employee.model.Employee;
+
+
 
 @Controller
 public class MyController {

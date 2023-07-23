@@ -5,10 +5,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wipro</groupId>
-    <artifactId>BEDBatch10SpringMVC</artifactId>
+    <artifactId>EmployeeSpringMVC</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BEDBatch10SpringMVC Maven Webapp</name>
+    <name>EmployeeSpringMVC Maven Webapp</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -45,7 +45,7 @@
     </dependencies>
 
     <build>
-        <finalName>BEDBatch10SpringMVC</finalName>
+        <finalName>EmployeeSpringMVC</finalName>
     </build>
 
 </project>

@@ -4,15 +4,13 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Today Date</</title>
 </head>
 <body>
+<h2>Today Date</h2>
 <%
-String message=(String)request.getAttribute("responsekey");
-out.println("<h1>"+message+"</h1>");
-
- 
-
+String tdt=(String) request.getAttribute("getdate");
+out.println(tdt);
 %>
 </body>
 </html>
