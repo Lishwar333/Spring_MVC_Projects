@@ -1,2 +1,2 @@
-# Spring_MVC_Project
+# Spring-MVC-Project
 My spring MVC projects
